@@ -1,4 +1,12 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 ### Hi there 👋
+My name is Hoàng Thành Tiến, you guys can call me Tyler 
+I'm a web developer and most of the time I working with 3 programming languages: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"/> Javascript, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px"/> Python and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20px"/> Golang
+
+Checkout some of my "Not Cool Enough" projects:
+
+- https://github.com/hoangthanhtien/git-auto-commit
+- https://github.com/hoangthanhtien/coin_watcher_backend
 
 <!--
 **hoangthanhtien/hoangthanhtien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
