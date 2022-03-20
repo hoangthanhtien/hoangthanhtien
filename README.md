@@ -6,11 +6,11 @@ I'm a web developer and most of the time I'm working with 3 programming language
 
 Checkout some of my "Not Cool Enough" projects:
 
-- https://github.com/hoangthanhtien/git-auto-commit
-- https://github.com/hoangthanhtien/coin_watcher_backend
+- https://github.com/hoangthanhtien/git-auto-commit : Auto create in progress commit (Python, Bash)
+- https://github.com/hoangthanhtien/coin_watcher_backend : APIs for crypto currency tracking (Python, Sanic)
 
 🔭 I’m currently working on:
-- https://github.com/hoangthanhtien/PFM : A website to help managing personal finance (NodeJS, Express, ReactJS)
+- https://github.com/hoangthanhtien/PFM : APIs for managing personal finance (NodeJS, Express)
 
 <!--
 **hoangthanhtien/hoangthanhtien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
