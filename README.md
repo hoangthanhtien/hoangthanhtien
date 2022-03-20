@@ -9,6 +9,9 @@ Checkout some of my "Not Cool Enough" projects:
 - https://github.com/hoangthanhtien/git-auto-commit
 - https://github.com/hoangthanhtien/coin_watcher_backend
 
+🔭 I’m currently working on:
+- https://github.com/hoangthanhtien/PFM : A website to help managing personal finance (NodeJS, Express, ReactJS)
+
 <!--
 **hoangthanhtien/hoangthanhtien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
